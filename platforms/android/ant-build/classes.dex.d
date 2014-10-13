@@ -6,4 +6,5 @@ D:\htdocs\gradeinquiry\gradeinquiry\platforms\android\ant-build\classes\com\sluc
 D:\htdocs\gradeinquiry\gradeinquiry\platforms\android\ant-build\classes\com\sluc_dmmmsu\ccs\R$string.class \
 D:\htdocs\gradeinquiry\gradeinquiry\platforms\android\ant-build\classes\com\sluc_dmmmsu\ccs\R$xml.class \
 D:\htdocs\gradeinquiry\gradeinquiry\platforms\android\ant-build\classes\com\sluc_dmmmsu\ccs\R.class \
+D:\htdocs\gradeinquiry\gradeinquiry\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen.class \
 D:\htdocs\gradeinquiry\gradeinquiry\platforms\android\ant-build\dexedLibs\classes-725db354842e9e92ebdba9c781173778.jar \
